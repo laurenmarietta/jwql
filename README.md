@@ -101,6 +101,7 @@ Any questions about the `jwql` project or its software can be directed to `jwql@
 - Sara Ogaz (OED) [@SaOgaz](https://github.com/SaOgaz)
 - Johannes Sahlmann (INS) [@Johannes-Sahlmann](https://github.com/johannes-sahlmann)
 
+
 ## Acknowledgments:
 - Faith Abney (OED)
 - Anastasia Alexov (OED)
